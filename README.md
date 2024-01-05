@@ -1,7 +1,7 @@
-# OIBSIP
-## Oasis Infobyte Data Science Internship
+# CodeClause
+## AI Internship
 
-Successfully Completed the task mentioned in the Data Science Internship
+Successfully Completed the task mentioned in theInternship
 
 Task 1 - Completed the task by using Scikit-learn for classification of different species of flowers on Iris data set.
 
